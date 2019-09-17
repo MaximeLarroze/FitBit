@@ -1,0 +1,9 @@
+D:\DIIAGE1\Exercices\SolutionFitbit\FitBit\Fitbit.Entities\bin\Debug\netcoreapp2.1\Fitbit.Entities.deps.json
+D:\DIIAGE1\Exercices\SolutionFitbit\FitBit\Fitbit.Entities\bin\Debug\netcoreapp2.1\Fitbit.Entities.dll
+D:\DIIAGE1\Exercices\SolutionFitbit\FitBit\Fitbit.Entities\bin\Debug\netcoreapp2.1\Fitbit.Entities.pdb
+D:\DIIAGE1\Exercices\SolutionFitbit\FitBit\Fitbit.Entities\obj\Debug\netcoreapp2.1\Fitbit.Entities.csproj.CoreCompileInputs.cache
+D:\DIIAGE1\Exercices\SolutionFitbit\FitBit\Fitbit.Entities\obj\Debug\netcoreapp2.1\Fitbit.Entities.AssemblyInfoInputs.cache
+D:\DIIAGE1\Exercices\SolutionFitbit\FitBit\Fitbit.Entities\obj\Debug\netcoreapp2.1\Fitbit.Entities.AssemblyInfo.cs
+D:\DIIAGE1\Exercices\SolutionFitbit\FitBit\Fitbit.Entities\obj\Debug\netcoreapp2.1\Fitbit.Entities.dll
+D:\DIIAGE1\Exercices\SolutionFitbit\FitBit\Fitbit.Entities\obj\Debug\netcoreapp2.1\Fitbit.Entities.pdb
+D:\DIIAGE1\Exercices\SolutionFitbit\FitBit\Fitbit.Entities\obj\Debug\netcoreapp2.1\Fitbit.Entities.csprojAssemblyReference.cache

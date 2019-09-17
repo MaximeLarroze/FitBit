@@ -1,0 +1,17 @@
+D:\DIIAGE1\Exercices\SolutionFitbit\FitBit\Fitbit.UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\DIIAGE1\Exercices\SolutionFitbit\FitBit\Fitbit.UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\DIIAGE1\Exercices\SolutionFitbit\FitBit\Fitbit.UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\DIIAGE1\Exercices\SolutionFitbit\FitBit\Fitbit.UnitTests\bin\Debug\netcoreapp2.1\Fitbit.UnitTests.deps.json
+D:\DIIAGE1\Exercices\SolutionFitbit\FitBit\Fitbit.UnitTests\bin\Debug\netcoreapp2.1\Fitbit.UnitTests.runtimeconfig.json
+D:\DIIAGE1\Exercices\SolutionFitbit\FitBit\Fitbit.UnitTests\bin\Debug\netcoreapp2.1\Fitbit.UnitTests.runtimeconfig.dev.json
+D:\DIIAGE1\Exercices\SolutionFitbit\FitBit\Fitbit.UnitTests\bin\Debug\netcoreapp2.1\Fitbit.UnitTests.dll
+D:\DIIAGE1\Exercices\SolutionFitbit\FitBit\Fitbit.UnitTests\bin\Debug\netcoreapp2.1\Fitbit.UnitTests.pdb
+D:\DIIAGE1\Exercices\SolutionFitbit\FitBit\Fitbit.UnitTests\bin\Debug\netcoreapp2.1\Fitbit.Entities.dll
+D:\DIIAGE1\Exercices\SolutionFitbit\FitBit\Fitbit.UnitTests\bin\Debug\netcoreapp2.1\Fitbit.Entities.pdb
+D:\DIIAGE1\Exercices\SolutionFitbit\FitBit\Fitbit.UnitTests\obj\Debug\netcoreapp2.1\Fitbit.UnitTests.csprojAssemblyReference.cache
+D:\DIIAGE1\Exercices\SolutionFitbit\FitBit\Fitbit.UnitTests\obj\Debug\netcoreapp2.1\Fitbit.UnitTests.csproj.CoreCompileInputs.cache
+D:\DIIAGE1\Exercices\SolutionFitbit\FitBit\Fitbit.UnitTests\obj\Debug\netcoreapp2.1\Fitbit.UnitTests.AssemblyInfoInputs.cache
+D:\DIIAGE1\Exercices\SolutionFitbit\FitBit\Fitbit.UnitTests\obj\Debug\netcoreapp2.1\Fitbit.UnitTests.AssemblyInfo.cs
+D:\DIIAGE1\Exercices\SolutionFitbit\FitBit\Fitbit.UnitTests\obj\Debug\netcoreapp2.1\Fitbit.UnitTests.csproj.CopyComplete
+D:\DIIAGE1\Exercices\SolutionFitbit\FitBit\Fitbit.UnitTests\obj\Debug\netcoreapp2.1\Fitbit.UnitTests.dll
+D:\DIIAGE1\Exercices\SolutionFitbit\FitBit\Fitbit.UnitTests\obj\Debug\netcoreapp2.1\Fitbit.UnitTests.pdb
