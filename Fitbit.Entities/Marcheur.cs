@@ -77,14 +77,14 @@ namespace Fitbit.Entities
 
         private List<Badge> VerifierBadges(Parcours parcours)
         {
-            int cumulTotal = 0;
+            int cumulTotal = 0; // semantic
             
-            foreach (Parcours item in _lesParcours)
+            foreach (Parcours item in _lesParcours) // naming conventions
             {
                 cumulTotal = cumulTotal + item.NombreDePas;
             }
-            List<Badge> verificationBadges = new List<Badge>();
-            foreach (Badge objet in _lesBadges)
+            List<Badge> verificationBadges = new List<Badge>(); // semantic
+            foreach (Badge objet in _lesBadges) // naming conventions HORRIBLE 
             {
                 if (objet.DistanceJournaliere <= parcours.NombreDePas || objet.DistanceCumulee <= cumulTotal)
                 {
@@ -97,11 +97,11 @@ namespace Fitbit.Entities
         {
             foreach (BadgeObtenu item in _lesBadgesObtenus)
             {
-                if (badges.Contains(item.Badge) && item.Marcheur == this)
+                if (badges.Contains(item.Badge) && item.Marcheur == this) // ????????
                 {
                     item.Dates.Add(date);
 
-                    badges.Remove(item.Badge);
+                    badges.Remove(item.Badge);// never 
                 }
             }
 
